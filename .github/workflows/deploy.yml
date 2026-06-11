@@ -32,6 +32,7 @@ jobs:
       - run: npm run build
         env:
           VITE_DISCORD_WEBHOOK_URL: ${{ secrets.VITE_DISCORD_WEBHOOK_URL }}
+          BASE_PATH: /Nirmit/
 
       - uses: actions/upload-pages-artifact@v3
         with:
