@@ -205,6 +205,31 @@ const PROJECTS = [
   },
 ];
 
+
+  {
+    title: "BRM5 Bot",
+    server: "BRM5",
+    desc: "An AI-powered BRM5 companion with mission presets, automatic channel creation, and team creation tools.",
+    tags: ["AI integration", "Mission presets", "Auto channel creation", "Team creation"],
+  },
+  {
+    title: "FYI",
+    server: "FYI world",
+    desc: "A living social simulation where people work, spend, build relationships, raise families, and shape a changing economy. AI powers babies and NPCs, while world news keeps everyone informed.",
+    tags: ["AI integration", "Life simulation", "Dynamic economy", "World news"],
+  },
+  {
+    title: "500 Games Bot",
+    server: "500 Games",
+    desc: "A game hub with nine categories and 500 games built for variety, replayability, and friendly competition.",
+    tags: ["9 categories", "500 games", "Multiplayer", "Replayability"],
+  },
+  {
+    title: "AI Server Manager",
+    server: "Discord servers",
+    desc: "An AI assistant that follows your orders to create channels, manage roles, and automate Discord server setup.",
+    tags: ["AI integration", "Channel creation", "Role management", "Server automation"],
+  },
 const PRICING_PLANS = [
   {
     title: "Bot Files",
