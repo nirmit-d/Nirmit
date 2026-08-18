@@ -203,8 +203,6 @@ const PROJECTS = [
     desc: "My personal playground for experimenting with new ideas. The biggest bot I have built — more commands than any of the client bots.",
     tags: ["160+ commands", "Built for experimentation", "All categories covered"],
   },
-];
-
 
   {
     title: "BRM5 Bot",
@@ -230,6 +228,8 @@ const PROJECTS = [
     desc: "An AI assistant that follows your orders to create channels, manage roles, and automate Discord server setup.",
     tags: ["AI integration", "Channel creation", "Role management", "Server automation"],
   },
+];
+
 const PRICING_PLANS = [
   {
     title: "Bot Files",
